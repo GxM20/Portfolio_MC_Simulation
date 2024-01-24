@@ -1,7 +1,7 @@
 # Portfolio_MC_Simulation
 Analysis of Emergency Fund and Monte Carlo Simulations for investment portfolio
 
-##Files can be found in the Portfolio_MC_Simulation folder
+## Files can be found in the Portfolio_MC_Simulation folder
 
 Inside Portfolio_MC_Simulation you will find two .py libraries, MCForecastTools and MCForecastTools_fixed1. The original MCForecastTools contained an issue with how the Monte Carlo Simulations ran. The output of the MC functions used in the code returned a long list of warnings about inefficient data stacking. This was fixed in MCForecastTools_fixed1 and the new fixed library is used in the final product, financial-planner-copy.ipynb.
 
